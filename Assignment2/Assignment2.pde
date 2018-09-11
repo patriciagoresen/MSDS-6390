@@ -161,6 +161,11 @@ void draw () {
     curveVertex(217, 161);
   endShape();
   
+  //sunglass bridge
+  quad(201, 174, 198, 167, 216, 162, 204, 163);
+  
+  //image(cho, 0, (height-cho.height)/2);
+  
 }   
 
 
